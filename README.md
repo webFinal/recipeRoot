@@ -1,2 +1,3 @@
 # recipeRoot
-For web final project
+For web final project.
+A website to share recipes.
